@@ -94,26 +94,42 @@ The goal is to identify sales patterns, customer behavior, and the impact of off
 ## 📂 Project Structure
 
 Mobile-Shop-Sales-Analysis/
+
 │
+
 ├── data/
+
 │ └── [cleaned_mobile_sales_data.xlsx](https://github.com/sanchit-2511/Mobile_Shop_Sales_Analysis/blob/0d8545965e93fcffd75d6a25994ea8c03219d48b/Data/cleaned_mobile_sales_data.xlsx)
+
 │
+
 ├── dashboard/
+
 │ └── [mobile_sales.pbix](https://github.com/sanchit-2511/Mobile_Shop_Sales_Analysis/blob/0d8545965e93fcffd75d6a25994ea8c03219d48b/PowerBI%20Dashboard/Shree%20Mobile%20Point.pbix)
+
 │
+
 ├── images/
+
 │ └── [Page-1](https://github.com/sanchit-2511/Mobile_Shop_Sales_Analysis/blob/ebe77d7475c1d4935839e40511afe02a72f110dd/Output/Shree%20Mobile%20Point_page-0001.jpg
 )
+
 │ └── [Page-2](https://github.com/sanchit-2511/Mobile_Shop_Sales_Analysis/blob/ebe77d7475c1d4935839e40511afe02a72f110dd/Output/Shree%20Mobile%20Point_page-0002.jpg
 )
+
 │ └── [Page-3](https://github.com/sanchit-2511/Mobile_Shop_Sales_Analysis/blob/ebe77d7475c1d4935839e40511afe02a72f110dd/Output/Shree%20Mobile%20Point_page-0003.jpg
 )
+
 │ └── [Page-4](https://github.com/sanchit-2511/Mobile_Shop_Sales_Analysis/blob/ebe77d7475c1d4935839e40511afe02a72f110dd/Output/Shree%20Mobile%20Point_page-0004.jpg
 )
+
 │ └── [Page-5](https://github.com/sanchit-2511/Mobile_Shop_Sales_Analysis/blob/ebe77d7475c1d4935839e40511afe02a72f110dd/Output/Shree%20Mobile%20Point_page-0005.jpg
 )
+
 │
+
 └── README.md
+
 
 ---
 
